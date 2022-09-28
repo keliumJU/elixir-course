@@ -102,16 +102,3 @@ IO.puts("get element by index: elem(tuple,1) -> #{elem(tuple,1)}")
 IO.puts("get element by index: elem(tuple,0) -> #{elem(tuple,0)}")
 tuple_mod=put_elem(tuple,1,"world")
 IO.puts("put element in particular index: put_elem(tuple,1,\"world\") -> #{inspect(tuple_mod)}")
-
-
-
-
-
-
-
-
-
-
-
-
-

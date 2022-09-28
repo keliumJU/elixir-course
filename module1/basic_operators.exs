@@ -36,9 +36,3 @@ IO.puts("compare different data types")
 IO.puts("1 < :atom -> #{1 < :atom}")
 IO.puts("Base in sorting order, from lower to higher: ")
 IO.puts("number, atom, reference, function, port, pid, tuple, map, list, bitstring")
-
-
-
-
-
-
